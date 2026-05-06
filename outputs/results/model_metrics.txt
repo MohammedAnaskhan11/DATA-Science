@@ -1,0 +1,3 @@
+Model: Random Forest Regressor
+Mean Squared Error (MSE): 32958082717796.4727
+R-squared (R2): 0.1497
